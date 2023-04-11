@@ -3,7 +3,7 @@ Message-passing communication in Modelica (version 2.0)
 
 This Modelica library provides functionality to describe message-passing communication between model components, and to store messages within models in a dynamic memory structure (e.g., a queue).
 
-The Modelica code (MSGLib.mo) has been tested in Dymola and OpenModelica. It includes the user documentation, the library components and a set of illustrative examples. Once downloaded and extracted, the MSGLib.mo file can be directly open and used in one of these simulation environments without any further instalation requirements. The Resources/Include directory includes the C code corresponding to external objects and function calls from the Modelica code.
+The Modelica code (MSGLib.mo) has been tested in Dymola and OpenModelica. It includes the user documentation, the library components and a set of illustrative examples. Once downloaded and extracted, the MSGLib.mo file can be directly opened and used in one of these simulation environments without any further instalation requirements. The Resources/Include directory includes the C code corresponding to external objects and function calls from the Modelica code.
 
  Author: 
 				
