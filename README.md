@@ -2,13 +2,14 @@
 Message-passing communication in Modelica
 
  Author: 
-        Victorino Sanz 
-        Dpto. Informática y Automática, UNED
-        Juan del Rosal, 16
-        28040, Madrid
-        Spain
-        Email: vsanz@dia.uned.es
-        http://www.euclides.dia.uned.es/vsanz
+				
+				Victorino Sanz 
+				Dpto. Informática y Automática, UNED
+				Juan del Rosal, 16
+				28040, Madrid
+				Spain
+				Email: vsanz@dia.uned.es
+				http://www.euclides.dia.uned.es/vsanz
 
  Licensed by Victorino Sanz under the LGPL-3.0 or later
  Copyright © 2023, Victorino Sanz.
